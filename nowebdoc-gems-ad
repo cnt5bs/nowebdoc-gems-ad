@@ -1,0 +1,2 @@
+#! /bin/bash
+java -jar /usr/local/nowebdoc-gems-ad/nowebdoc-gems-ad.jar $*
