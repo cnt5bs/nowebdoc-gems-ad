@@ -1,6 +1,6 @@
 # nowebdoc-gems-ad
 
-Extracts code fragments from specification files writen with `asciidoctor` delimiters. More information in `doc` directory.
+Extracts code fragments from specification files writen with `asciidoc` delimiters. More information in `doc` directory.
 
 # Author
 
